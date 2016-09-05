@@ -46,8 +46,6 @@ public class ViewPagerIndicator extends LinearLayout{
 //	private static final int COLOR_TEXT_NORMAL=0x77ffffff;
 	
 	private ViewPager mViewPager;
-	
-	
 
 	public ViewPagerIndicator(Context context) {
 		this(context,null);
